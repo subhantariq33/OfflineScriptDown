@@ -34,29 +34,46 @@ The function will return a Extractor object representing the extracted video.
 - The library is intended for personal use only and should not be used for copyright infringement.
 - The library is for educational and testing purposes and is not intended for commercial use.
 
-## Contributing🤝
-If you want to contribute to this project, feel free to open a pull request or create an issue.
+[//]: # (## Contributing🤝)
 
-## Support🔁
-If you have any issues or questions, please open an issue.
+[//]: # (If you want to contribute to this project, feel free to open a pull request or create an issue.)
 
-## License📝
-This project is licensed under the Apache 2.0 License.
+[//]: # ()
+[//]: # (## Support🔁)
 
-## Author🖋️
-This project is created by [Udhayarajan M](https://linktr.ee/udhayarajan_m)
+[//]: # (If you have any issues or questions, please open an issue.)
 
-## Cloud version☁️
-This project is available as cloud API version vist [Rapid API](https://rapidapi.com/mudhayarajan2013/api/vidsnap) to get it. **IT IS FREE CURRENTLY**
+[//]: # ()
+[//]: # (## License📝)
 
-## Resources📲
-A sample app using this library can be found at this URL: https://github.com/Udhayarajan/VidSnapKit/tree/master/sample%20app
+[//]: # (This project is licensed under the Apache 2.0 License.)
 
-## Additional things➕
-- You can check the sample app for more details on how to use this library
-- Cookies needed to be passed if required.
+[//]: # ()
+[//]: # (## Author🖋️)
 
-## Sponsorship☕
-[!["Buy Me A Coffee"](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=udhayarajan&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/udhayarajan)
+[//]: # (This project is created by [Udhayarajan M]&#40;https://linktr.ee/udhayarajan_m&#41;)
 
+[//]: # ()
+[//]: # (## Cloud version☁️)
 
+[//]: # (This project is available as cloud API version vist [Rapid API]&#40;https://rapidapi.com/mudhayarajan2013/api/vidsnap&#41; to get it. **IT IS FREE CURRENTLY**)
+
+[//]: # ()
+[//]: # (## Resources📲)
+
+[//]: # (A sample app using this library can be found at this URL: https://github.com/Udhayarajan/VidSnapKit/tree/master/sample%20app)
+
+[//]: # ()
+[//]: # (## Additional things➕)
+
+[//]: # (- You can check the sample app for more details on how to use this library)
+
+[//]: # (- Cookies needed to be passed if required.)
+
+[//]: # ()
+[//]: # (## Sponsorship☕)
+
+[//]: # ([!["Buy Me A Coffee"]&#40;https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=udhayarajan&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00&#41;]&#40;https://www.buymeacoffee.com/udhayarajan&#41;)
+
+[//]: # ()
+[//]: # ()
