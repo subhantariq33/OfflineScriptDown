@@ -6,6 +6,8 @@ import org.gradle.kotlin.dsl.`maven-publish`
 import org.gradle.kotlin.dsl.signing
 import java.util.*
 
+
+
 plugins {
     `maven-publish`
     signing
@@ -53,9 +55,9 @@ publishing {
 
         // Provide artifacts information requited by Maven Central
         pom {
-            name.set("VidSnapKit")
+            name.set("OfflineScriptDown")
             description.set("Used to extract video urls from popular sites (Instagram, Facebook, DailyMotion, LinkedIn)")
-            url.set("https://github.com/Udhayarajan/VidSnapKit-Ulimate")
+            url.set("https://github.com/subhantariq33/OfflineScriptDown.git")
 
             licenses {
                 license {
@@ -65,13 +67,13 @@ publishing {
             }
             developers {
                 developer {
-                    id.set("https://github.com/Udhayarajan/")
-                    name.set("Udhayarajan_M")
-                    email.set("mudhayarajan.2013@gmail.com")
+                    id.set("https://github.com/subhantariq33/")
+                    name.set("subhantariq33")
+                    email.set("subhantariq33@gmail.com")
                 }
             }
             scm {
-                url.set("https://github.com/Udhayarajan/VidSnapKit-Ulimate")
+                url.set("https://github.com/subhantariq33/OfflineScriptDown.git")
             }
         }
     }

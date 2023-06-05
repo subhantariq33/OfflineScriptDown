@@ -15,5 +15,5 @@ pluginManagement {
         }
     }
 }
-rootProject.name = "VidSnapKit"
+rootProject.name = "OfflineScriptDown"
 includeBuild("convention-plugins")
