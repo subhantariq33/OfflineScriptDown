@@ -5,11 +5,11 @@ VidSnapKit is a Kotlin Multi-Platform library that allows users to download vide
 Add the following dependency to your app's build.gradle file:
 
 
-    implementation 'io.github.udhayarajan:VidSnapKit:<release_version>'
+    implementation 'com.github.subhantariq33:OfflineScriptDown:<release_version>'
 
 You can see LATEST_VERSION from release of this current respository.
 
-NOTE: You no need to add `v` and `beta` tag in implementaion line. Just add numerical version alone (eg: v2.0.1-beta as implementation `'io.github.udhayarajan:VidSnapKit:2.0.1'`)
+NOTE: You no need to add `v` and `beta` tag in implementaion line. Just add numerical version alone (eg: v2.0.1-beta as implementation `'com.github.subhantariq33:OfflineScriptDown:2.0.1'`)
 
 Sync your project with Gradle.
 
