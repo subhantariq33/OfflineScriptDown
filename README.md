@@ -1,5 +1,5 @@
-# VidSnapKit
-VidSnapKit is a Kotlin Multi-Platform library that allows users to download videos from Instagram (Reels, Stories, Carousel Posts), Facebook, DailyMotion, LinkedIn, ShareChat, Vimeo and Likee. The library is built with support for Android and JVM, and can be easily included in other Java/Kotlin projects or Android apps.
+# OfflineScriptDown
+OfflineScriptDown is a Kotlin Multi-Platform library that allows users to download videos from Instagram (Reels, Stories, Carousel Posts), Facebook, DailyMotion, LinkedIn, ShareChat, Vimeo and Likee. The library is built with support for Android and JVM, and can be easily included in other Java/Kotlin projects or Android apps.
 
 ## Installation⚙️
 Add the following dependency to your app's build.gradle file:
